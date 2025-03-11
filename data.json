@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Jokowi",
+      "email": "jokowi@gmail.com",
+      "photo_url": "jokowi"
+    },
+    {
+      "name": "Ardi",
+      "email": "ardi@gmail.com",
+      "photo_url": "ardi"
+    },
+    {
+      "name": "Lumba-lumba Sunda",
+      "email": "llsunda@gmail.com",
+      "photo_url": "lumbaLumbaSunda"
+    },
+    {
+      "name": "Roger Sumatera",
+      "email": "roger@gmail.com",
+      "photo_url": "rogerSumatera"
+    },
+    {
+      "name": "Ilham Perkakas",
+      "email": "ilham@gmail.com",
+      "photo_url": "ilhamPerkakas"
+    },
+    {
+      "name": "Rudi Ban Serep",
+      "email": "rudi@gmail.com",
+      "photo_url": "rudiBanSerep"
+    },
+    {
+      "name": "Mang Kodir",
+      "email": "kodir@gmail.com",
+      "photo_url": "mangKodir"
+    }
+  ]
+  
